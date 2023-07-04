@@ -1,0 +1,24 @@
+2023-07-04 20:32:56.970 [info] 
+
+
+
+
+2023-07-04 20:32:56.970 [info] Extension host agent started.
+2023-07-04 20:32:57.066 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ken12/.vscode-server/extensions
+2023-07-04 20:32:57.137 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ken12/.vscode-server/extensions
+2023-07-04 20:32:57.276 [info] [127.0.0.1][19a9ceda][ManagementConnection] New connection established.
+2023-07-04 20:32:57.462 [info] Installing extensions...
+2023-07-04 20:32:57.865 [info] [127.0.0.1][938423ec][ExtensionHostConnection] New connection established.
+2023-07-04 20:32:57.987 [info] [127.0.0.1][938423ec][ExtensionHostConnection] <1593> Launched Extension Host Process.
+2023-07-04 20:32:59.102 [info] Installing extension 'ms-ceintl.vscode-language-pack-ja'...
+2023-07-04 20:32:59.585 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-07-04 20:32:59.868 [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+2023-07-04 20:33:04.473 [info] Extension signature verification: ms-ceintl.vscode-language-pack-ja. Verification status: Verified.
+2023-07-04 20:33:04.729 [info] Extracted extension to /home/ken12/.vscode-server/extensions/.73ea4144-7e36-4944-a6a1-6e41b0dd9935: ms-ceintl.vscode-language-pack-ja
+2023-07-04 20:33:04.749 [info] Renamed to /home/ken12/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.76.2023031509
+2023-07-04 20:33:04.753 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ja
+2023-07-04 20:33:04.764 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2023-07-04 20:33:04.833 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
+2023-07-04 20:33:04.835 [info] Extension 'ms-ceintl.vscode-language-pack-ja' v1.76.2023031509 was successfully installed.
+2023-07-04 20:34:49.498 [info] [127.0.0.1][19a9ceda][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-04 20:34:49.765 [info] [127.0.0.1][938423ec][ExtensionHostConnection] <1593> Extension Host Process exited with code: 0, signal: null.

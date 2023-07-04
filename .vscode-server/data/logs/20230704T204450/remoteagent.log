@@ -1,0 +1,10 @@
+2023-07-04 20:44:50.519 [info] 
+
+
+
+
+2023-07-04 20:44:50.642 [info] Extension host agent started.
+2023-07-04 20:44:50.904 [info] [127.0.0.1][4c1d0cdf][ManagementConnection] New connection established.
+2023-07-04 20:44:51.094 [info] Deleted from disk ms-ceintl.vscode-language-pack-ja /home/ken12/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.76.2023031509
+2023-07-04 20:44:51.817 [info] [127.0.0.1][3f9d4505][ExtensionHostConnection] New connection established.
+2023-07-04 20:44:51.920 [info] [127.0.0.1][3f9d4505][ExtensionHostConnection] <2167> Launched Extension Host Process.

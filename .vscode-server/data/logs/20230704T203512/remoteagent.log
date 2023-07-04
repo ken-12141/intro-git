@@ -1,0 +1,23 @@
+2023-07-04 20:35:12.550 [info] 
+
+
+
+
+2023-07-04 20:35:12.619 [info] Extension host agent started.
+2023-07-04 20:35:12.831 [info] [127.0.0.1][16eb7368][ManagementConnection] New connection established.
+2023-07-04 20:35:13.788 [info] [127.0.0.1][341e7b35][ExtensionHostConnection] New connection established.
+2023-07-04 20:35:13.806 [info] [127.0.0.1][341e7b35][ExtensionHostConnection] <1833> Launched Extension Host Process.
+2023-07-04 20:35:18.131 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-07-04 20:35:18.132 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-07-04 20:35:18.639 [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+2023-07-04 20:35:18.652 [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-ja
+2023-07-04 20:35:23.399 [info] Extension signature is verified: ms-ceintl.vscode-language-pack-ja
+2023-07-04 20:35:23.835 [info] Extracted extension to /home/ken12/.vscode-server/extensions/.d5d7ffd5-aaaf-451b-b7ec-5d8fed510e6b: ms-ceintl.vscode-language-pack-ja
+2023-07-04 20:35:23.846 [info] Renamed to /home/ken12/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.79.2023061409
+2023-07-04 20:35:23.849 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ja
+2023-07-04 20:35:23.859 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2023-07-04 20:35:23.917 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-ja-1.76.2023031509
+2023-07-04 20:35:23.980 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
+2023-07-04 20:43:00.167 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-07-04 20:44:44.785 [info] [127.0.0.1][16eb7368][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-04 20:44:45.046 [info] [127.0.0.1][341e7b35][ExtensionHostConnection] <1833> Extension Host Process exited with code: 0, signal: null.
